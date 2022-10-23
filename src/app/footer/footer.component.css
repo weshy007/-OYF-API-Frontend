@@ -1,0 +1,16 @@
+.footer {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial Courier, Courier, monospace;
+    color: #000;
+    margin-top: 30px;
+    bottom: 0;
+    background-color: #bbbb;
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    
+  }

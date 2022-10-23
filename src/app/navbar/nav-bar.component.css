@@ -1,0 +1,36 @@
+.Nav {
+    /* display: flex; */
+    font-size: 20px;
+    /* justify-content: space-between; */
+    margin: 30px;
+    box-shadow: 8px 5px 5px -2px rgba(2, 0, 1, 0);
+    -webkit-box-shadow: 8px 5px 25px -2px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 48px 5px 5px -2px rgba(0, 0, 0, 1);
+  }
+  
+  .list li {
+    list-style-type: none;
+    margin-left: 400px;
+    justify-content: space-between;
+    margin: 10px;  
+    margin-right: 45px;         
+   
+  }
+   .list, li a {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    color: black;   
+    
+  }
+  .navbar-container {    
+    position: relative;    
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 8px 5px 5px -2px rgba(2, 0, 1, 0);
+    -webkit-box-shadow: 8px 5px 25px -2px rgba(0, 0, 0, 0.06);
+    -moz-box-shadow: 48px 5px 5px -2px rgba(0, 0, 0, 0.09);
+    
+          
+    
+  }
